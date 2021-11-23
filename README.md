@@ -1,7 +1,7 @@
 rental_price_predictor
 ==============================
 
-Given a set of rental[1;5D[1;5D[1;5D[1;5D[1;5D[Ddata on rental properties[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D short term rental properties in SF train a model to predict short term rental rates.
+Given a set of data on short term rental properties in SF train a model to predict short term rental rates.
 
 Project Organization
 ------------
